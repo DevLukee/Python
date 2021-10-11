@@ -39,4 +39,4 @@ async def start(ctx):
         await ctx.send(f"https://discord.com/gifts/{result}")
 
 
-client.run("ODY3ODQ0NjA2NDcyMjI0ODk5.YPnBRQ.f0ZYBdM1UFLhs4k2zKvKyHnOCQ0")
+client.run("no")
